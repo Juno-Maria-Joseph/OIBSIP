@@ -1,8 +1,8 @@
-# Oasis Infobyte Internship - Data Analytics Projects
+# **Oasis Infobyte Internship - Data Analytics Projects**
 
 This repository contains the projects I completed as part of my data analytics internship at Oasis Infobyte. Each project involves real-world applications of data science and machine learning techniques, showcasing skills in data analysis, predictive modeling, and data cleaning.
 
-Table of Contents
+#Table of Contents
 Task 1: Exploratory Data Analysis on Retail Sales Data
 Task 2: Customer Segmentation Analysis
 Task 3: Data Cleaning
